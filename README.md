@@ -24,22 +24,22 @@
 - **Denso Toyota** — [denso-toyota-tuning-software](https://www.davincideluxe.fr/denso-toyota-tuning-software)
 - **Siemens Sid20x** — [siemens-sid20x-tuning-software](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)
 
-## 🚗 Coverage — 750+ ECUs across 37+ brands
+## 🚗 Coverage — 807+ ECUs across 38+ brands
 
 | Vehicle brand | ECUs covered |
 |---|---|
 | Toyota - Lexus | 379 |
-| VAG | 84 |
-| BMW - Mini | 43 |
-| Ford | 40 |
-| Renault - Dacia - Nissan | 37 |
-| PSA | 36 |
-| Opel - Cheverolet -  Vauxhall | 35 |
-| Mercedes | 31 |
-| FCA | 25 |
-| Hyundai - Kia | 24 |
-| Volvo | 14 |
-| Land Rover - Jaguar | 12 |
+| VAG | 111 |
+| BMW - Mini | 53 |
+| Ford | 45 |
+| Mercedes | 41 |
+| Opel - Cheverolet -  Vauxhall | 40 |
+| Renault - Dacia - Nissan | 38 |
+| PSA | 37 |
+| FCA | 32 |
+| Hyundai - Kia | 25 |
+| Volvo | 18 |
+| Land Rover - Jaguar | 14 |
 | Suzuki | 9 |
 | Honda | 8 |
 | Iveco | 7 |
@@ -50,6 +50,7 @@
 | SMART | 4 |
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
+| Smart | 2 |
 | MAXUS - LDV | 2 |
 | MAN | 2 |
 | CNH | 2 |
@@ -62,7 +63,6 @@
 | Kubota | 1 |
 | JAC | 1 |
 | Great Wall | 1 |
-| GEELY | 1 |
 
 > Cars, vans & (beta) trucks from ~2002 to the latest 2026 models. Emissions (DPF/EGR/AdBlue/DTC-off) run free in the desktop app; performance stages and advanced files run through automated **Cloud Tuning** with checksum correction included.
 
