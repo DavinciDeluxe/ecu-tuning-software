@@ -24,32 +24,32 @@
 - **Denso Toyota** — [denso-toyota-tuning-software](https://www.davincideluxe.fr/denso-toyota-tuning-software)
 - **Siemens Sid20x** — [siemens-sid20x-tuning-software](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)
 
-## 🚗 Coverage — 1114+ ECUs across 75+ brands
+## 🚗 Coverage — 1151+ ECUs across 76+ brands
 
 | Vehicle brand | ECUs covered |
 |---|---|
-| Toyota - Lexus | 385 |
-| VAG | 241 |
-| PSA | 94 |
-| BMW - Mini | 91 |
-| Mercedes | 83 |
-| Renault - Dacia - Nissan | 67 |
-| Opel - Chevrolet - Vauxhall | 65 |
-| Ford | 63 |
+| Toyota - Lexus | 391 |
+| VAG | 254 |
+| PSA | 98 |
+| BMW - Mini | 92 |
+| Mercedes | 85 |
+| Renault - Dacia - Nissan | 72 |
+| Opel - Chevrolet - Vauxhall | 68 |
+| Ford | 66 |
 | FCA | 59 |
-| Opel - Cheverolet -  Vauxhall | 49 |
-| Hyundai - Kia | 35 |
-| Volvo | 32 |
-| Land Rover - Jaguar | 26 |
-| Suzuki | 20 |
+| Opel - Cheverolet -  Vauxhall | 52 |
+| Hyundai - Kia | 39 |
+| Volvo | 34 |
+| Land Rover - Jaguar | 27 |
+| Suzuki | 22 |
 | Honda | 16 |
 | Porsche | 12 |
-| Mitsubishi | 11 |
+| Mitsubishi | 12 |
+| Mazda | 11 |
 | Iveco | 10 |
-| Mazda | 9 |
 | Smart | 7 |
+| Isuzu | 7 |
 | MG | 6 |
-| Isuzu | 6 |
 | SsangYong | 5 |
 | Saab | 5 |
 | Maserati | 5 |
