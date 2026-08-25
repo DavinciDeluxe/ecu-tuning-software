@@ -24,7 +24,7 @@
 - **Denso Toyota** — [denso-toyota-tuning-software](https://www.davincideluxe.fr/denso-toyota-tuning-software)
 - **Siemens Sid20x** — [siemens-sid20x-tuning-software](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)
 
-## 🚗 Coverage — 1304+ ECUs across 77+ brands
+## 🚗 Coverage — 1305+ ECUs across 77+ brands
 
 | Vehicle brand | ECUs covered |
 |---|---|
@@ -55,8 +55,8 @@
 | Maserati | 5 |
 | Claas | 5 |
 | SMART | 4 |
+| Mahindra | 4 |
 | CLAAS | 4 |
-| Mahindra | 3 |
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
 | CNH | 3 |
