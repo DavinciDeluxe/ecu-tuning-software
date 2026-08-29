@@ -40,7 +40,7 @@
 | Opel - Cheverolet -  Vauxhall | 58 |
 | Hyundai - Kia | 42 |
 | Volvo | 41 |
-| Land Rover - Jaguar | 28 |
+| Land Rover - Jaguar | 29 |
 | Suzuki | 23 |
 | Honda | 17 |
 | Mazda | 13 |
