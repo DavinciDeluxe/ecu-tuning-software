@@ -29,7 +29,7 @@
 | Vehicle brand | ECUs covered |
 |---|---|
 | Toyota - Lexus | 395 |
-| VAG | 363 |
+| VAG | 364 |
 | PSA | 121 |
 | BMW - Mini | 119 |
 | Mercedes | 98 |
