@@ -24,35 +24,35 @@
 - **Denso Toyota** — [denso-toyota-tuning-software](https://www.davincideluxe.fr/denso-toyota-tuning-software)
 - **Siemens Sid20x** — [siemens-sid20x-tuning-software](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)
 
-## 🚗 Coverage — 1370+ ECUs across 154+ brands
+## 🚗 Coverage — 1377+ ECUs across 154+ brands
 
 | Vehicle brand | ECUs covered |
 |---|---|
-| Toyota - Lexus | 395 |
-| VAG | 379 |
-| PSA | 124 |
-| BMW - Mini | 123 |
-| Mercedes | 103 |
-| Renault - Dacia - Nissan | 97 |
-| Ford | 87 |
-| Opel - Chevrolet - Vauxhall | 79 |
-| FCA | 75 |
+| Toyota - Lexus | 399 |
+| VAG | 381 |
+| PSA | 126 |
+| BMW - Mini | 124 |
+| Mercedes | 104 |
+| Renault - Dacia - Nissan | 98 |
+| Ford | 88 |
+| Opel - Chevrolet - Vauxhall | 80 |
+| FCA | 76 |
 | Opel - Cheverolet -  Vauxhall | 58 |
-| Hyundai - Kia | 45 |
-| Volvo | 43 |
-| Land Rover - Jaguar | 31 |
-| Suzuki | 25 |
+| Hyundai - Kia | 46 |
+| Volvo | 44 |
+| Land Rover - Jaguar | 32 |
+| Suzuki | 26 |
+| Mazda | 17 |
 | Honda | 17 |
-| Mazda | 16 |
+| Mitsubishi | 13 |
 | Iveco | 13 |
 | Porsche | 12 |
-| Mitsubishi | 12 |
 | MG | 10 |
-| Isuzu | 8 |
+| Isuzu | 9 |
+| DENSO | 9 |
+| SsangYong | 7 |
 | Smart | 7 |
-| SsangYong | 6 |
 | Maserati | 6 |
-| DENSO | 6 |
 | Saab | 5 |
 | Claas | 5 |
 | SMART | 4 |
@@ -60,9 +60,9 @@
 | CLAAS | 4 |
 | vw | 3 |
 | renault | 3 |
+| Subaru | 3 |
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
-| CNH | 3 |
 
 > Cars, vans & (beta) trucks from ~2002 to the latest 2026 models. Emissions (DPF/EGR/AdBlue/DTC-off) run free in the desktop app; performance stages and advanced files run through automated **Cloud Tuning** with checksum correction included.
 
