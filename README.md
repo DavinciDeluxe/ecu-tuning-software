@@ -28,7 +28,7 @@
 
 | Vehicle brand | ECUs covered |
 |---|---|
-| Toyota - Lexus | 402 |
+| Toyota - Lexus | 404 |
 | VAG | 381 |
 | PSA | 126 |
 | BMW - Mini | 124 |
