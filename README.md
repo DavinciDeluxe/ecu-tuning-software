@@ -24,14 +24,14 @@
 - **Denso Toyota** — [denso-toyota-tuning-software](https://www.davincideluxe.fr/denso-toyota-tuning-software)
 - **Siemens Sid20x** — [siemens-sid20x-tuning-software](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)
 
-## 🚗 Coverage — 1391+ ECUs across 165+ brands
+## 🚗 Coverage — 1392+ ECUs across 165+ brands
 
 | Vehicle brand | ECUs covered |
 |---|---|
 | Toyota - Lexus | 404 |
 | VAG | 381 |
+| PSA | 128 |
 | BMW - Mini | 128 |
-| PSA | 127 |
 | Mercedes | 104 |
 | Renault - Dacia - Nissan | 101 |
 | Ford | 88 |
@@ -74,6 +74,5 @@
 - 🌐 Website: **[davincideluxe.fr](https://www.davincideluxe.fr)**
 - ☁️ Cloud Tuning: [upload a file](https://www.davincideluxe.fr/profile)
 - 📋 Supported ECUs: [full list](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html) · [PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
-- 🎬 Demo: [YouTube](https://www.youtube.com/watch?v=x51fxDm_Z8E)
 
 <sub>ECU remapping · chiptuning · DPF EGR AdBlue delete · Stage 1/2/3 · automatic checksum correction · automotive tuning software.</sub>
