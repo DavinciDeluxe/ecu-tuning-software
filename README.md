@@ -24,7 +24,7 @@
 - **Denso Toyota** — [denso-toyota-tuning-software](https://www.davincideluxe.fr/denso-toyota-tuning-software)
 - **Siemens Sid20x** — [siemens-sid20x-tuning-software](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)
 
-## 🚗 Coverage — 1395+ ECUs across 165+ brands
+## 🚗 Coverage — 1396+ ECUs across 165+ brands
 
 | Vehicle brand | ECUs covered |
 |---|---|
