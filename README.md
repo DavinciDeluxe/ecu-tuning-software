@@ -41,7 +41,7 @@
 | Mercedes-Benz | 70 |
 | VW | 69 |
 | Audi | 64 |
-| Peugeot | 57 |
+| Peugeot | 61 |
 | BMW | 53 |
 | Opel | 52 |
 | Volvo | 51 |
