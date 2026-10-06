@@ -34,11 +34,11 @@
 | PSA | 128 |
 | Mercedes | 104 |
 | Renault - Dacia - Nissan | 101 |
-| Ford | 100 |
+| Ford | 101 |
 | Opel - Chevrolet - Vauxhall | 80 |
 | MB | 78 |
 | FCA | 77 |
-| Mercedes-Benz | 70 |
+| Mercedes-Benz | 71 |
 | VW | 69 |
 | Audi | 64 |
 | Peugeot | 61 |
@@ -62,7 +62,7 @@
 | Porsche | 16 |
 | Hyundai | 16 |
 | Mb | 15 |
-| Iveco | 13 |
+| Volkswagen | 13 |
 
 > Cars, vans & (beta) trucks from ~2002 to the latest 2026 models. Emissions (DPF/EGR/AdBlue/DTC-off) run free in the desktop app; performance stages and advanced files run through automated **Cloud Tuning** with checksum correction included.
 
