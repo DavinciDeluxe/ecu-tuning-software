@@ -41,7 +41,7 @@
 | Mercedes-Benz | 71 |
 | VW | 69 |
 | Audi | 64 |
-| Peugeot | 61 |
+| Peugeot | 62 |
 | BMW | 53 |
 | Opel | 52 |
 | Volvo | 51 |
@@ -52,7 +52,7 @@
 | Citroen | 33 |
 | Land Rover - Jaguar | 32 |
 | Toyota | 31 |
-| Fiat | 26 |
+| Fiat | 27 |
 | Seat | 25 |
 | Mazda | 24 |
 | Land Rover | 21 |
@@ -62,7 +62,7 @@
 | Porsche | 16 |
 | Hyundai | 16 |
 | Mb | 15 |
-| Volkswagen | 13 |
+| Volkswagen | 14 |
 
 > Cars, vans & (beta) trucks from ~2002 to the latest 2026 models. Emissions (DPF/EGR/AdBlue/DTC-off) run free in the desktop app; performance stages and advanced files run through automated **Cloud Tuning** with checksum correction included.
 
