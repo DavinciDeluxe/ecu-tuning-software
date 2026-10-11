@@ -53,7 +53,7 @@
 | Fiat | 59 |
 | Nissan | 52 |
 | Hyundai - Kia | 46 |
-| Toyota | 43 |
+| Toyota | 44 |
 | Land Rover | 42 |
 | Mazda | 41 |
 | Porsche | 39 |
