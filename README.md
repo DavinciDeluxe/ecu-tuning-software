@@ -24,7 +24,7 @@
 - **Denso Toyota** — [denso-toyota-tuning-software](https://www.davincideluxe.fr/denso-toyota-tuning-software)
 - **Siemens Sid20x** — [siemens-sid20x-tuning-software](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)
 
-## 🚗 Coverage — 2872+ ECUs across 376+ brands
+## 🚗 Coverage — 2882+ ECUs across 376+ brands
 
 | Vehicle brand | ECUs covered |
 |---|---|
@@ -32,37 +32,37 @@
 | VAG | 393 |
 | Audi | 276 |
 | Volkswagen | 265 |
-| VW | 249 |
+| VW | 254 |
 | Mercedes-Benz | 230 |
 | BMW | 204 |
-| Opel | 202 |
-| Ford | 196 |
-| MB | 183 |
-| Peugeot | 168 |
-| AUDI | 168 |
-| BMW - Mini | 144 |
-| Renault | 138 |
+| Opel | 203 |
+| Ford | 197 |
+| MB | 184 |
+| AUDI | 183 |
+| Peugeot | 171 |
+| BMW - Mini | 147 |
+| Renault | 139 |
 | PSA | 137 |
-| Skoda | 124 |
+| Skoda | 125 |
+| Citroen | 118 |
 | Citroën | 117 |
-| Citroen | 117 |
 | Mercedes | 114 |
 | Seat | 109 |
 | Renault - Dacia - Nissan | 108 |
 | Fiat | 108 |
-| Nissan | 87 |
+| Nissan | 88 |
+| Toyota | 86 |
 | FCA | 86 |
+| Vw | 85 |
 | Volvo | 85 |
-| Vw | 84 |
-| Toyota | 84 |
 | Opel - Chevrolet - Vauxhall | 84 |
 | Mazda | 70 |
-| Porsche | 66 |
+| Porsche | 67 |
+| FORD | 64 |
 | Land Rover | 61 |
 | Hyundai | 60 |
+| OPEL | 56 |
 | Suzuki | 54 |
-| Mitsubishi | 51 |
-| Mini | 50 |
 
 > Cars, vans & (beta) trucks from ~2002 to the latest 2026 models. Emissions (DPF/EGR/AdBlue/DTC-off) run free in the desktop app; performance stages and advanced files run through automated **Cloud Tuning** with checksum correction included.
 
