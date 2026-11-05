@@ -1,28 +1,29 @@
 # ECU Tuning Software — DaVinci Deluxe Cloud Edition (v1.0.44)
 
-**Automated ECU & TCU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off), and Stage 1/2 performance software** covering **4,962+ Cars & Vans ECUs across 82 brands** plus **452+ Heavy-Duty Truck & Agricultural ECUs**.
+**Automated ECU & TCU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off), and Stage 1/2 performance software** covering **4,962+ Cars & Vans ECUs (82 brands)**, **452+ Heavy-Duty Truck ECUs**, and **30+ Marine Boat/Outboard/PWC brands**.
 
-[![DaVinci Deluxe Cloud Edition](https://www.davincideluxe.fr/cloud1040/cloud-1040-01.jpg)](https://www.davincideluxe.fr)
+## 🔧 All 20 Dedicated ECU Family Repositories
 
-## 🔧 Dedicated ECU Family Repositories
-
-- **[Bosch EDC15](https://github.com/DavinciDeluxe/bosch-edc15-tuning-software)** — early common-rail & VP diesel ECU family (VAG, PSA, Mercedes, BMW, Fiat ~1999–2006) · [Live Web Guide](https://www.davincideluxe.fr/bosch-edc15-tuning-software)
-- **[Bosch EDC16](https://github.com/DavinciDeluxe/bosch-edc16-tuning-software)** — second-generation common-rail diesel ECU family (VAG, BMW, Mercedes, PSA, Ford, Fiat ~2003–2011) · [Live Web Guide](https://www.davincideluxe.fr/bosch-edc16-tuning-software)
-- **[Bosch EDC17](https://github.com/DavinciDeluxe/bosch-edc17-tuning-software)** — Tricore diesel ECU family including EDC17C/CP/CV for passenger cars, vans & heavy-duty trucks (2008–2022) · [Live Web Guide](https://www.davincideluxe.fr/bosch-edc17-tuning-software)
-- **[Bosch EDC7](https://github.com/DavinciDeluxe/bosch-edc7-tuning-software)** — 24V commercial truck, bus & agriculture diesel ECU family (Iveco, MAN, DAF, Cummins, New Holland, Case IH) · [Live Web Guide](https://www.davincideluxe.fr/bosch-edc7-tuning-software)
-- **[Bosch MD1](https://github.com/DavinciDeluxe/bosch-md1-tuning-software)** — latest-generation Euro 6d/Euro 7 SPC58/Aurix diesel ECU family (MD1CP/MD1CS/MD1CE, 2018–2026) · [Live Web Guide](https://www.davincideluxe.fr/bosch-md1-tuning-software)
-- **[Bosch MG1](https://github.com/DavinciDeluxe/bosch-mg1-tuning-software)** — latest-generation Euro 6d turbo-petrol ECU family (MG1CS/MG1CA/MG1CP, VAG, BMW, Mercedes, Ford, PSA 2018–2026) · [Live Web Guide](https://www.davincideluxe.fr/bosch-mg1-tuning-software)
-- **[Bosch ME7](https://github.com/DavinciDeluxe/bosch-me7-tuning-software)** — classic turbo & naturally aspirated petrol ECU family (VAG 1.8T/2.7T, Porsche, Fiat, Alfa Romeo, Volvo) · [Live Web Guide](https://www.davincideluxe.fr/bosch-me7-tuning-software)
-- **[Bosch ME9](https://github.com/DavinciDeluxe/bosch-me9-tuning-software)** — port & direct-injection performance petrol ECU family (BMW, Mercedes AMG, VAG, Volvo) · [Live Web Guide](https://www.davincideluxe.fr/bosch-me9-tuning-software)
-- **[Bosch MED9](https://github.com/DavinciDeluxe/bosch-med9-tuning-software)** — direct-injection TFSI/FSI petrol ECU family (VAG 2.0 TFSI, Audi S3/TTS, Golf GTI/R) · [Live Web Guide](https://www.davincideluxe.fr/bosch-med9-tuning-software)
-- **[Bosch MED17](https://github.com/DavinciDeluxe/bosch-med17-tuning-software)** — Tricore direct-injection turbo petrol ECU family (VAG TSI/TFSI, Mercedes, PSA THP, Mini, Hyundai/Kia) · [Live Web Guide](https://www.davincideluxe.fr/bosch-med17-tuning-software)
-- **[Bosch MEDC17](https://github.com/DavinciDeluxe/bosch-medc17-tuning-software)** — unified Jaguar/Land Rover, Mercedes & Ford Tricore petrol/diesel management family · [Live Web Guide](https://www.davincideluxe.fr/bosch-medc17-tuning-software)
-- **[Bosch MEVD17](https://github.com/DavinciDeluxe/bosch-mevd17-tuning-software)** — BMW & Mini Valvetronic direct-injection turbo petrol ECU family (N13, N20, N55, S55, S63) · [Live Web Guide](https://www.davincideluxe.fr/bosch-mevd17-tuning-software)
-- **[Continental SID208](https://github.com/DavinciDeluxe/continental-sid208-tuning-software)** — Ford Transit, PSA Boxer/Jumper, Land Rover Defender & Citroen/Peugeot 2.2 HDi/TDCi diesel ECU · [Live Web Guide](https://www.davincideluxe.fr/continental-sid208-tuning-software)
-- **[Continental SIM2K](https://github.com/DavinciDeluxe/continental-sim2k-tuning-software)** — Hyundai, Kia & Genesis petrol/T-GDI ECU family (SIM2K-140/141/240/241/250/251/260) · [Live Web Guide](https://www.davincideluxe.fr/continental-sim2k-tuning-software)
-- **[Delphi DCM](https://github.com/DavinciDeluxe/delphi-dcm-tuning-software)** — common-rail diesel ECU family (DCM3.4, DCM3.5, DCM3.7, DCM6.2A/C/V, DCM7.1A/B across PSA, VAG, Renault, Ford, Hyundai) · [Live Web Guide](https://www.davincideluxe.fr/delphi-dcm-tuning-software)
-- **[Denso (Toyota/Lexus)](https://github.com/DavinciDeluxe/denso-toyota-tuning-software)** — Toyota, Lexus, Hino, Mazda, Subaru, Nissan & Isuzu Denso NEC76F/Gen1/Gen2/Gen3/SH705x ECU family · [Live Web Guide](https://www.davincideluxe.fr/denso-toyota-tuning-software)
-- **[Siemens SID20x & SID80x](https://github.com/DavinciDeluxe/siemens-sid20x-tuning-software)** — Siemens/Continental PSA, Ford, Volvo, Renault & Nissan diesel ECU family (SID201/206/305/307/310/803/807) · [Live Web Guide](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)
+- **[Bosch EDC15](https://github.com/DavinciDeluxe/bosch-edc15-tuning-software)** — early common-rail & VP diesel ECU family (VAG, PSA, Mercedes, BMW, Fiat ~1999–2006) · [Web Guide](https://www.davincideluxe.fr/bosch-edc15-tuning-software)
+- **[Bosch EDC16](https://github.com/DavinciDeluxe/bosch-edc16-tuning-software)** — second-generation common-rail diesel ECU family (VAG, BMW, Mercedes, PSA, Ford, Fiat ~2003–2011) · [Web Guide](https://www.davincideluxe.fr/bosch-edc16-tuning-software)
+- **[Bosch EDC17](https://github.com/DavinciDeluxe/bosch-edc17-tuning-software)** — Tricore diesel ECU family including EDC17C/CP/CV for Cars, Vans, Heavy-Duty Trucks & Marine (2008–2022) · [Web Guide](https://www.davincideluxe.fr/bosch-edc17-tuning-software)
+- **[Bosch EDC7](https://github.com/DavinciDeluxe/bosch-edc7-tuning-software)** — 24V commercial truck, agriculture & marine inboard diesel ECU family (Iveco, MAN, DAF, Cummins, Volvo Penta) · [Web Guide](https://www.davincideluxe.fr/bosch-edc7-tuning-software)
+- **[Bosch MD1](https://github.com/DavinciDeluxe/bosch-md1-tuning-software)** — latest-generation Euro 6d/Euro 7 SPC58/Aurix diesel ECU family (MD1CP/MD1CS/MD1CE, 2018–2026) · [Web Guide](https://www.davincideluxe.fr/bosch-md1-tuning-software)
+- **[Bosch MG1](https://github.com/DavinciDeluxe/bosch-mg1-tuning-software)** — latest-generation Euro 6d turbo-petrol & Sea-Doo Rotax marine ECU family (MG1CS/MG1CA/MG1CP, 2018–2026) · [Web Guide](https://www.davincideluxe.fr/bosch-mg1-tuning-software)
+- **[Bosch ME7](https://github.com/DavinciDeluxe/bosch-me7-tuning-software)** — classic turbo & naturally aspirated petrol ECU family (VAG 1.8T/2.7T, Porsche, Fiat, Alfa Romeo, Volvo) · [Web Guide](https://www.davincideluxe.fr/bosch-me7-tuning-software)
+- **[Bosch ME9](https://github.com/DavinciDeluxe/bosch-me9-tuning-software)** — port & direct-injection performance petrol ECU family (BMW, Mercedes AMG, VAG, Volvo) · [Web Guide](https://www.davincideluxe.fr/bosch-me9-tuning-software)
+- **[Bosch MED9](https://github.com/DavinciDeluxe/bosch-med9-tuning-software)** — direct-injection TFSI/FSI petrol ECU family (VAG 2.0 TFSI, Audi S3/TTS, Golf GTI/R) · [Web Guide](https://www.davincideluxe.fr/bosch-med9-tuning-software)
+- **[Bosch MED17](https://github.com/DavinciDeluxe/bosch-med17-tuning-software)** — Tricore direct-injection turbo petrol & Mercury Verado marine ECU family (VAG TSI, Mercedes, PSA, Mini) · [Web Guide](https://www.davincideluxe.fr/bosch-med17-tuning-software)
+- **[Bosch MEDC17](https://github.com/DavinciDeluxe/bosch-medc17-tuning-software)** — unified Jaguar/Land Rover, Mercedes & Ford Tricore petrol/diesel management family · [Web Guide](https://www.davincideluxe.fr/bosch-medc17-tuning-software)
+- **[Bosch MEVD17](https://github.com/DavinciDeluxe/bosch-mevd17-tuning-software)** — BMW & Mini Valvetronic direct-injection turbo petrol ECU family (N13, N20, N55, S55, S63) · [Web Guide](https://www.davincideluxe.fr/bosch-mevd17-tuning-software)
+- **[Continental SID208](https://github.com/DavinciDeluxe/continental-sid208-tuning-software)** — Ford Transit, PSA Boxer/Jumper, Land Rover Defender & Citroen/Peugeot 2.2 HDi/TDCi diesel ECU · [Web Guide](https://www.davincideluxe.fr/continental-sid208-tuning-software)
+- **[Continental SIM2K](https://github.com/DavinciDeluxe/continental-sim2k-tuning-software)** — Hyundai, Kia & Genesis petrol/T-GDI ECU family (SIM2K-140/141/240/241/250/251/260) · [Web Guide](https://www.davincideluxe.fr/continental-sim2k-tuning-software)
+- **[Delphi DCM](https://github.com/DavinciDeluxe/delphi-dcm-tuning-software)** — common-rail diesel ECU family (DCM3.4, DCM3.5, DCM3.7, DCM6.2A/C/V, DCM7.1A/B across PSA, VAG, Renault, Ford, Hyundai) · [Web Guide](https://www.davincideluxe.fr/delphi-dcm-tuning-software)
+- **[Denso (Toyota/Lexus/Marine)](https://github.com/DavinciDeluxe/denso-toyota-tuning-software)** — Toyota, Lexus, Hino, Mazda, Subaru, Nissan, Isuzu & Yamaha Marine Denso NEC76F/Gen1/Gen2/Gen3/SH705x ECU family · [Web Guide](https://www.davincideluxe.fr/denso-toyota-tuning-software)
+- **[Siemens SID20x & SID80x](https://github.com/DavinciDeluxe/siemens-sid20x-tuning-software)** — Siemens/Continental PSA, Ford, Volvo, Renault & Nissan diesel ECU family (SID201/206/305/307/310/803/807) · [Web Guide](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)
+- **[Hitachi (Nissan/Infiniti/Renault)](https://github.com/DavinciDeluxe/hitachi-nissan-tuning-software)** — Hitachi SH7055, SH7058, SH7059, SH72533 & BED/MEC petrol and diesel ECU family for Nissan, Infiniti & Renault · [Web Guide](https://www.davincideluxe.fr/hitachi-nissan-tuning-software)
+- **[Magneti Marelli (MJD / 8F3 / 9DF / MM)](https://github.com/DavinciDeluxe/magneti-marelli-tuning-software)** — Magneti Marelli diesel & petrol ECU family (MJD6, MJ8DF, MJ8F3, MJ9DF, MM8GMF, MM9GF, IAW) for Fiat, Alfa Romeo, Jeep, PSA & Opel · [Web Guide](https://www.davincideluxe.fr/magneti-marelli-tuning-software)
+- **[Continental SIMOS & PCR2.1 (VAG)](https://github.com/DavinciDeluxe/simos-pcr2-1-tuning-software)** — Continental SIMOS 8/10/12/16/18/19 TSI/TFSI & SIMOS PCR2.1 1.6 TDI ECU family across Volkswagen, Audi, Seat, Skoda, Cupra & Porsche · [Web Guide](https://www.davincideluxe.fr/simos-pcr2-1-tuning-software)
 
 ## 🚗 Live Passenger Car & Van Coverage (82 Brands · 4,962+ ECUs)
 
@@ -113,15 +114,30 @@
 
 ---
 
-### ⚠️ 100% Virgin Original ECU File Policy & 24h/7 Engineering Support
+### ⚠️ 100% Virgin Original ECU File Policy & 24h/7 Engineering Support (365 Days/Year)
 
-- **Virgin Original Reads Only:** Always upload **100% original, unmodified ECU files** read directly from the vehicle. Previously modified or tuned files cause bad map detection and errors — **DaVinci Deluxe Cloud Edition** strictly recommends working exclusively on virgin original reads.
-- **24h/7 Live Support (365 Days/Year, Holidays Included):** Whenever you encounter a tricky vehicle or diagnostic procedure, send photos, videos, audio notes or ECU logs in **any language** — our engineering team guides you step-by-step until the vehicle runs 100% right.
+- **Virgin Original Reads Only:** Always upload **100% original, unmodified ECU files** read directly from the vehicle, truck, tractor, or marine engine. Previously modified files cause bad map detection and errors — **DaVinci Deluxe Cloud Edition** strictly recommends working exclusively on virgin original reads (continuing with an already-modified file is strictly at the user's own responsibility).
+- **24h/7 Live Support (365 Days/Year, Holidays Included):** Send photos, videos, audio notes, diagnostic screenshots, or ECU files in **any language** — our engineers guide you step-by-step until you and your customer are 100% satisfied.
 
-### 🔗 Official DaVinci Deluxe Cloud Edition Links
+### 🌍 Official DaVinci Deluxe Cloud Edition International Portals
 
-- 🌐 **Official Website:** **[www.davincideluxe.fr](https://www.davincideluxe.fr)**
-- 🚛 **Trucks, Agriculture & Heavy-Duty Engine:** **[www.davincideluxe.fr/trucks.html](https://www.davincideluxe.fr/trucks.html)**
-- ☁️ **Online Cloud Tuning (Pay-Per-Use, Tokens Never Expire):** **[www.davincideluxe.fr/online-ecu-tuning](https://www.davincideluxe.fr/online-ecu-tuning)**
-- 🛒 **Official Digital Shop (300+ DAMOS, A2L, ORI & Pinouts):** **[www.davincideluxe.fr/shop](https://www.davincideluxe.fr/shop)**
-- 📘 **Developer & ECU Coverage Portal:** **[davincideluxe.github.io](https://davincideluxe.github.io)**
+| Region / Edition | Official Domain | Cars | Trucks | Boats (Marine) | Digital Shop |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| 🌐 **Global Flagship & Français** | **[www.davincideluxe.fr](https://www.davincideluxe.fr)** | [Cars](https://www.davincideluxe.fr/) | [Trucks](https://www.davincideluxe.fr/trucks) | [Boats](https://www.davincideluxe.fr/boats) | [Shop](https://www.davincideluxe.fr/shop) |
+| 🌍 **International & UK (`.org`)** | **[www.davincideluxe.org](https://www.davincideluxe.org)** | [Cars](https://www.davincideluxe.org/) | [Trucks](https://www.davincideluxe.org/trucks) | [Boats](https://www.davincideluxe.org/boats) | [Shop](https://www.davincideluxe.org/shop) |
+| 📱 **Global Cloud Web App (`.app`)** | **[www.davincideluxe.app](https://www.davincideluxe.app)** | [Cars](https://www.davincideluxe.app/) | [Trucks](https://www.davincideluxe.app/trucks) | [Boats](https://www.davincideluxe.app/boats) | [Shop](https://www.davincideluxe.app/shop) |
+| 💻 **Global Software Hub (`.software`)** | **[www.davincideluxe.software](https://www.davincideluxe.software)** | [Cars](https://www.davincideluxe.software/) | [Trucks](https://www.davincideluxe.software/trucks) | [Boats](https://www.davincideluxe.software/boats) | [Shop](https://www.davincideluxe.software/shop) |
+| 🇪🇸 **Edición Oficial Español (`.es`)** | **[www.davincideluxe.es](https://www.davincideluxe.es)** | [Coches](https://www.davincideluxe.es/) | [Camiones](https://www.davincideluxe.es/trucks) | [Barcos](https://www.davincideluxe.es/boats) | [Tienda](https://www.davincideluxe.es/shop) |
+| 🇩🇪 **Offizielle Deutsche Edition (`.de`)** | **[www.davincideluxe.de](https://www.davincideluxe.de)** | [PKW](https://www.davincideluxe.de/) | [LKW](https://www.davincideluxe.de/trucks) | [Boote](https://www.davincideluxe.de/boats) | [Shop](https://www.davincideluxe.de/shop) |
+| 🇮🇹 **Edizione Ufficiale Italiana (`.it`)** | **[www.davincideluxe.it](https://www.davincideluxe.it)** | [Auto](https://www.davincideluxe.it/) | [Camion](https://www.davincideluxe.it/trucks) | [Barche](https://www.davincideluxe.it/boats) | [Shop](https://www.davincideluxe.it/shop) |
+| 🇪🇺 **European Engineering (`.eu`)** | **[www.aesoftech.eu](https://www.aesoftech.eu)** | [Cars](https://www.aesoftech.eu/) | [Trucks](https://www.aesoftech.eu/trucks) | [Boats](https://www.aesoftech.eu/boats) | [Shop](https://www.aesoftech.eu/shop) |
+
+### 🔗 Tools, Catalogs & Developer Links
+
+- 🚗 **Check Your ECU File Free:** **[davincideluxe.fr/#check-file](https://www.davincideluxe.fr/#check-file)**
+- ☁️ **Online Cloud Tuning (No Subscription — Tokens Never Expire):** **[davincideluxe.fr/online-ecu-tuning](https://www.davincideluxe.fr/online-ecu-tuning)**
+- 🚤 **DaVinci Deluxe Cloud Edition Boats (Marine ECU Tuning):** **[davincideluxe.fr/boats](https://www.davincideluxe.fr/boats)**
+- 🚛 **DaVinci Deluxe Cloud Edition Trucks (24V Heavy-Duty & Agri):** **[davincideluxe.fr/trucks](https://www.davincideluxe.fr/trucks)**
+- 🧮 **Checksum Correction Tool:** **[davincideluxe.fr/checksum-tool](https://www.davincideluxe.fr/checksum-tool)** · **DTC Code Dictionary:** **[davincideluxe.fr/dtc](https://www.davincideluxe.fr/dtc)** · **ECU Identifier:** **[davincideluxe.fr/ecu-identifier](https://www.davincideluxe.fr/ecu-identifier)**
+- 🔧 **WinOLS Advanced Custom Tuning:** **[davincideluxe.fr/advanced-tuning-winols](https://www.davincideluxe.fr/advanced-tuning-winols)** · **Official Verification:** **[davincideluxe.fr/official](https://www.davincideluxe.fr/official)**
+- 📘 **GitHub Pages Multilingual Hub:** **[davincideluxe.github.io](https://davincideluxe.github.io)** ([ES](https://davincideluxe.github.io/es.html) · [FR](https://davincideluxe.github.io/fr.html) · [DE](https://davincideluxe.github.io/de.html) · [IT](https://davincideluxe.github.io/it.html))
