@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "DaVinci Deluxe Cloud Edition (v1.0.44) — 20 ECU Families Hub covering 4964+ Cars ECUs, 452+ Trucks ECUs & 30+ Marine Boat brands. (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/online-ecu-tuning"
+repository-code: "https://github.com/DavinciDeluxe/ecu-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
