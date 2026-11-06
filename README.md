@@ -1,6 +1,6 @@
 # ECU Tuning Software — DaVinci Deluxe Cloud Edition (v1.0.44)
 
-**Automated ECU & TCU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off), and Stage 1/2 performance software** covering **4,962+ Cars & Vans ECUs (82 brands)**, **452+ Heavy-Duty Truck ECUs**, and **30+ Marine Boat/Outboard/PWC brands**.
+**Automated ECU & TCU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off), and Stage 1/2 performance software** covering **4,964+ Cars & Vans ECUs (82 brands)**, **452+ Heavy-Duty Truck ECUs**, and **30+ Marine Boat/Outboard/PWC brands**.
 
 ## 🔧 All 20 Dedicated ECU Family Repositories
 
@@ -25,7 +25,7 @@
 - **[Magneti Marelli (MJD / 8F3 / 9DF / MM)](https://github.com/DavinciDeluxe/magneti-marelli-tuning-software)** — Magneti Marelli diesel & petrol ECU family (MJD6, MJ8DF, MJ8F3, MJ9DF, MM8GMF, MM9GF, IAW) for Fiat, Alfa Romeo, Jeep, PSA & Opel · [Web Guide](https://www.davincideluxe.fr/magneti-marelli-tuning-software)
 - **[Continental SIMOS & PCR2.1 (VAG)](https://github.com/DavinciDeluxe/simos-pcr2-1-tuning-software)** — Continental SIMOS 8/10/12/16/18/19 TSI/TFSI & SIMOS PCR2.1 1.6 TDI ECU family across Volkswagen, Audi, Seat, Skoda, Cupra & Porsche · [Web Guide](https://www.davincideluxe.fr/simos-pcr2-1-tuning-software)
 
-## 🚗 Live Passenger Car & Van Coverage (82 Brands · 4,962+ ECUs)
+## 🚗 Live Passenger Car & Van Coverage (82 Brands · 4,964+ ECUs)
 
 | Brand | Supported ECU Variants | Sample ECUs |
 | :--- | :---: | :--- |
@@ -90,9 +90,10 @@
 | **MITSUBISHI** | 30 | 4D56, C42, DENSO20160, DIESEL, E6T01871, E6T01971 … |
 | **NISSAN** | 81 | 1H, 23710-KH03D, 705415N, BED, BED301, BED431 … |
 | **OPEL** | 138 | 3105A353, 60203D, A2C928169000, C20NE, CRDD, D0600 … |
-| **PEUGEOT** | 128 | 1P.41, 2000PM, 48P2, 6LP, 6LP3.11, 7.1A … |
+| **PEUGEOT** | 129 | 1P.41, 2000PM, 48P2, 6LP, 6LP3.11, 7.1A … |
 | **PORSCHE** | 260 | AL552, CRD3.X, DCM3.5, DCM3.7, DCM6.2, DCM6.2V … |
 | **RAM** | 63 | 9DF, 9GF, CRD2.X, EDC15, EDC15C2, EDC15C5 … |
+| **RENAULLT CLIO** | 1 | SIM32 |
 | **RENAULT** | 92 | ATK-EM-EU6, BED434, BED501, DCM3.2, DCM3.4, DCM3.7 … |
 | **ROEWE** | 1 | MED17.3.8 |
 | **ROVER** | 6 | DDE, EDC15, EDC16CP39, EDC17CP11, EDC17CP42, MED17.5.4 |
