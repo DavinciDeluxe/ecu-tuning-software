@@ -1,6 +1,6 @@
 # ECU Tuning Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
-**Automated ECU & TCU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off), and Stage 1/2 performance software** covering **4,962+ Cars & Vans ECUs (82 brands)**, **452+ Heavy-Duty Truck ECUs**, and **30+ Marine Boat/Outboard/PWC brands**.
+**Automated ECU & TCU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off), and Stage 1/2 performance software** covering **5,139+ Cars & Vans ECUs (82 brands)**, **452+ Heavy-Duty Truck ECUs**, and **30+ Marine Boat/Outboard/PWC brands**.
 
 ## 🔧 All 20 Dedicated ECU Family Repositories
 
@@ -25,35 +25,35 @@
 - **[Magneti Marelli (MJD / 8F3 / 9DF / MM)](https://github.com/DavinciDeluxe/magneti-marelli-tuning-software)** — Magneti Marelli diesel & petrol ECU family (MJD6, MJ8DF, MJ8F3, MJ9DF, MM8GMF, MM9GF, IAW) for Fiat, Alfa Romeo, Jeep, PSA & Opel · [Web Guide](https://www.davincideluxe.fr/magneti-marelli-tuning-software)
 - **[Continental SIMOS & PCR2.1 (VAG)](https://github.com/DavinciDeluxe/simos-pcr2-1-tuning-software)** — Continental SIMOS 8/10/12/16/18/19 TSI/TFSI & SIMOS PCR2.1 1.6 TDI ECU family across Volkswagen, Audi, Seat, Skoda, Cupra & Porsche · [Web Guide](https://www.davincideluxe.fr/simos-pcr2-1-tuning-software)
 
-## 🚗 Live Passenger Car & Van Coverage (82 Brands · 4,962+ ECUs)
+## 🚗 Live Passenger Car & Van Coverage (82 Brands · 5,139+ ECUs)
 
 | Brand | Supported ECU Variants | Sample ECUs |
 | :--- | :---: | :--- |
-| **ABARTH** | 42 | 9DF, 9GF, EDC16C39, EDC17C49, EDC17C84, EDC17CP14 … |
-| **ALFA ROMEO** | 76 | 9DF, 9GF, CRD2.X, EDC15, EDC15C2, EDC15C5 … |
+| **ABARTH** | 46 | 9DF, 9GF, DELCO, EDC16C39, EDC17C49, EDC17C84 … |
+| **ALFA ROMEO** | 80 | 9DF, 9GF, CRD2.X, DELCO, EDC15, EDC15C2 … |
 | **ALPINA** | 2 | EDC16C31, MEVD172X |
 | **ALPINE** | 53 | DCM3.4, DDCR-DCM1.2, EDC15, EDC15C, EDC15C13, EDC15C2 … |
 | **ASTON MARTIN** | 4 | EEC-V, EEC-VI, MPC555, PCM150 |
-| **AUDI** | 277 | AL1000, AL551, AL552, CRD3, CRD3.X, DCM3.5 … |
-| **BENTLEY** | 240 | AL551, CRD3.X, DCM3.5, DCM3.7, DCM6.2, DCM6.2V … |
-| **BMW** | 151 | 8HP, 8HP70, BMS, BMS46, BMSK, DCM3.5 … |
+| **AUDI** | 289 | AL1000, AL551, AL552, CRD3, CRD3.X, DCM3.5 … |
+| **BENTLEY** | 274 | AL1000, AL551, AL552, CRD3, CRD3.X, DCM3.5 … |
+| **BMW** | 158 | 8HP, 8HP70, BMS, BMS46, BMSK, BOSCHME7.2 … |
 | **BORGWARD** | 1 | MED17.3.8 |
 | **BRILLIANCE** | 1 | ME7.8.8 |
 | **CADILLAC** | 4 | E38, E82, EDC16C39, ME9.6 |
 | **CHANGAN** | 2 | EDC17C81, ME7.8.8 |
 | **CHERY** | 2 | ME7.8, ME7.9.7 |
-| **CHEVROLET** | 75 | 5WY8, 9GF, DCM3, DCM3.7, DCM3.7AP, DCM7.1 … |
-| **CHRYSLER** | 69 | 9DF, 9GF, CMB849, CRD2, CRD2.X, CRDH … |
+| **CHEVROLET** | 120 | 5WY8, 9GF, CRDD, D0600, D0700, DCM3 … |
+| **CHRYSLER** | 73 | 9DF, 9GF, CMB849, CRD2, CRD2.X, CRDH … |
 | **CHUANQI** | 1 | ME17 |
-| **CITROËN** | 111 | DCM3.4, DCM3.4PSA, DCM3.5, DCM6.2, DCM6.2C, DCM7 … |
-| **CUPRA** | 240 | AL551, CRD3.X, DCM3.5, DCM3.7, DCM6.2, DCM6.2V … |
+| **CITROËN** | 112 | DCM3.4, DCM3.4PSA, DCM3.5, DCM6.2, DCM6.2C, DCM7 … |
+| **CUPRA** | 274 | AL1000, AL551, AL552, CRD3, CRD3.X, DCM3.5 … |
 | **DACIA** | 62 | DCM3.4, DDCR-DCM1.2, EDC15, EDC15C, EDC15C13, EDC15C2 … |
 | **DFSK** | 1 | MT62 |
 | **DODGE** | 1 | EDC17C79 |
 | **DONKERVOORT** | 1 | ME7.5 |
-| **DS** | 77 | DCM3.4, DCM3.5, DCM6.2, DCM6.2C, DCM7, DCM7.1 … |
-| **FERRARI** | 10 | EDC17C64, ME7.1.1, ME7.3, ME7.3.1, ME7.3.2, MED17.1.6X … |
-| **FIAT** | 105 | 8F3.B1, 9DF, 9GF, CRD2.X, CRD8, CRDV … |
+| **DS** | 79 | DCM3.4, DCM3.5, DCM6.2, DCM6.2C, DCM7, DCM7.1 … |
+| **FERRARI** | 11 | EDC17C64, ME7.1.1, ME7.3, ME7.3.1, ME7.3.2, MED17.1.6X … |
+| **FIAT** | 109 | 8F3.B1, 9DF, 9GF, CRD2.X, CRD8, CRDV … |
 | **FORD** | 99 | 5WY8, DCM1.2, DCM1.X, DCM3.2, DCM3.5, DCM3.5CAN … |
 | **GEELY** | 2 | MED17.3.8, MED17.8.10 |
 | **GMC** | 2 | EDC16C31, EDC17CP18 |
@@ -66,11 +66,11 @@
 | **ISUZU** | 8 | EDC15, EDC17C09, EDC17C81, EDC17C83, EDC17CP45-CP49, MSA15 … |
 | **JAC** | 6 | DCM6.2, DCM6.2 AP, DCM6.2A, EDC17C81, MD1CS089, ME7.8 |
 | **JAGUAR** | 37 | DCM3.1, DCM3.4, EDC15, EDC15C4, EDC16CP39, EDC17C08 … |
-| **JEEP** | 71 | 9DF, 9GF, CRD2, CRD2.X, EDC15, EDC15C2 … |
+| **JEEP** | 75 | 9DF, 9GF, CRD2, CRD2.X, DELCO, EDC15 … |
 | **JMC** | 2 | EDC17C63, MD1CS089 |
-| **KIA** | 47 | CPEGD2.20.1, CPEGD2.20.2, CPEGD2.20.3, CPEGD2.20.4, CPGDSH2.2, CRDI … |
-| **LAMBORGHINI** | 242 | AL551, CAMPI, CRD3.X, DCM3.5, DCM3.7, DCM6.2 … |
-| **LANCIA** | 69 | 9DF, 9GF, CRD2.X, EDC15, EDC15C2, EDC15C5 … |
+| **KIA** | 48 | CPEGD2.20.1, CPEGD2.20.2, CPEGD2.20.3, CPEGD2.20.4, CPEGD3.20.1, CPGDSH2.2 … |
+| **LAMBORGHINI** | 276 | AL1000, AL551, AL552, CAMPI, CRD3, CRD3.X … |
+| **LANCIA** | 73 | 9DF, 9GF, CRD2.X, DELCO, EDC15, EDC15C2 … |
 | **LAND ROVER** | 42 | 8HP, DCU-102, DCU106, DDE, DDE4.0, EDC15 … |
 | **LDV** | 3 | EDC16C39, EDC17C53, EDC17C81 |
 | **LEXUS** | 19 | 76F00XX, DCM6.2, DCM7.1, EDC15, EDC15C9, EDC16C10 … |
@@ -79,33 +79,33 @@
 | **MAHINDRA** | 4 | EDC17C53, EDC17C55, EDC17C81, MD1CS018 |
 | **MASERATI** | 6 | EDC17C79, ME7.1.3, ME7.3.2, MED17.3.4, MED17.3.X, MED17.6.9 |
 | **MAXUS** | 2 | EDC17C53, EDC17C81 |
-| **MAYBACH** | 145 | 5WK9, 9G-TRONIC, CDID, CR1, CR1.7 2.2, CRD … |
-| **MAZDA** | 22 | (SH1), E6T58, EDC16C3, EDC16C31, EDC16C34, EDC16C7 … |
+| **MAYBACH** | 146 | 5WK9, 9G-TRONIC, CDID, CR1, CR1.7 2.2, CRD … |
+| **MAZDA** | 23 | (SH1), DCMC, E6T58, EDC16C3, EDC16C31, EDC16C34 … |
 | **MCLAREN** | 3 | ME17.8.3, ME17.8.32, ME17.8.33 |
-| **MERCEDES-BENZ** | 145 | 5WK9, 9G-TRONIC, CDID, CR1, CR1.7 2.2, CRD … |
+| **MERCEDES-BENZ** | 146 | 5WK9, 9G-TRONIC, CDID, CR1, CR1.7 2.2, CRD … |
 | **MG** | 6 | EDC17C06, EDC17C54, EDC17CP02, ME7.8.8, MED17.3.8, MEMS |
-| **MINI** | 107 | 8HP, BMS46, DCM3.7, EDC15, EDC15C4, EDC15C6 … |
+| **MINI** | 141 | 8HP, BMS, BMS46, DCM3.7, DDE, DDE3.0 … |
 | **MITSUBISHI** | 23 | DENSO20160, E6T01871, E6T01971, E6T32, E6T348, E6T42 … |
 | **NISSAN** | 67 | DCM3.4, DDCR-DCM1.2, DENSON, EDC15, EDC15C, EDC15C13 … |
-| **OPEL** | 125 | CRDD, D0600, D0700, DCM3, DCM3.7, DCM7.1 … |
+| **OPEL** | 126 | CRDD, D0600, D0700, DCM3, DCM3.7, DCM7.1 … |
 | **PEUGEOT** | 122 | DCM3.4, DCM3.5, DCM3.7, DCM6.2, DCM6.2A, DCM6.2C … |
-| **PORSCHE** | 259 | AL551, AL552, CRD3.X, DCM3.5, DCM3.7, DCM6.2 … |
-| **RAM** | 63 | 9DF, 9GF, CRD2.X, EDC15, EDC15C2, EDC15C5 … |
+| **PORSCHE** | 291 | AL1000, AL551, AL552, CRD3, CRD3.X, DCM3.5 … |
+| **RAM** | 67 | 9DF, 9GF, CRD2.X, DELCO, EDC15, EDC15C2 … |
 | **RENAULT** | 80 | DCM3.2, DCM3.4, DCM3.7, DDCR_-DCM1.2, EDC15, EDC15C … |
 | **ROEWE** | 1 | MED17.3.8 |
 | **ROVER** | 6 | DDE, EDC15, EDC16CP39, EDC17CP11, EDC17CP42, MED17.5.4 |
 | **SAAB** | 12 | E39, EDC16+ C39, EDC16C9, EDC17C19, EDC17CP21, ME9.6 … |
 | **SAIC** | 2 | EDC17C53, EDC17C81 |
-| **SEAT** | 249 | AL551, CRD3.X, DCM3.5, DCM3.7, DCM6.2, DCM6.2V … |
-| **SKODA** | 256 | AL551, CRD3.X, DCM3.5, DCM3.7, DCM6.2, DCM6.2V … |
-| **SMART** | 155 | 5WK9, 9G-TRONIC, CDID, CR1, CR1.7 2.2, CRD … |
+| **SEAT** | 281 | AL1000, AL551, AL552, CRD3, CRD3.X, DCM3.5 … |
+| **SKODA** | 285 | AL1000, AL551, AL552, CRD3, CRD3.X, DCM3.5 … |
+| **SMART** | 156 | 5WK9, 9G-TRONIC, CDID, CR1, CR1.7 2.2, CRD … |
 | **SSANGYONG** | 6 | DCM3.1, DCM3.2, DCM3.7, DCM6.2, DCM6.2 AP, DCM6.X |
 | **SUBARU** | 10 | 68HC16, 68HC16Y5, DEF30, DENSO20090, EDC16C34, EDC17C01 … |
-| **SUZUKI** | 31 | 8DS, DCM1.2, DDCR, E6T172, EDC, EDC15 … |
+| **SUZUKI** | 32 | 8DS, DCM1.2, DDCR, E6T172, EDC, EDC15 … |
 | **TATA** | 3 | DCM3.2, DCM3.7AP, EDC17C69 |
 | **TOYOTA** | 36 | 76F00XX, D76F019X, D76F019X GEN2, DCM3.5, DCM6.2, DCM7.1 … |
-| **VAUXHALL** | 61 | DCM3, DCM3.7, DCM7.1, DELCO E37, DELCO E38, DELCO E39 … |
-| **VOLKSWAGEN** | 299 | 5WP4, AG6, AL1000, AL450, AL551, CRD3.X … |
+| **VAUXHALL** | 109 | CRDD, D0600, D0700, DCM3, DCM3.7, DCM7.1 … |
+| **VOLKSWAGEN** | 315 | 5WP4, AG6, AL1000, AL450, AL551, AL552 … |
 | **VOLVO** | 46 | DENSO VEA, EDC15, EDC15C11-3, EDC15C2, EDC15VM, EDC16C31 … |
 
 
