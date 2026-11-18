@@ -1,6 +1,6 @@
 # ECU Tuning Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
-**Automated ECU & TCU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off), and Stage 1/2 performance software** covering **5,157+ Cars & Vans ECUs (82 brands)**, **452+ Heavy-Duty Truck ECUs**, and **30+ Marine Boat/Outboard/PWC brands**.
+**Automated ECU & TCU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off), and Stage 1/2 performance software** covering **5,159+ Cars & Vans ECUs (82 brands)**, **452+ Heavy-Duty Truck ECUs**, and **30+ Marine Boat/Outboard/PWC brands**.
 
 ## 🔧 All 20 Dedicated ECU Family Repositories
 
@@ -25,7 +25,7 @@
 - **[Magneti Marelli (MJD / 8F3 / 9DF / MM)](https://github.com/DavinciDeluxe/magneti-marelli-tuning-software)** — Magneti Marelli diesel & petrol ECU family (MJD6, MJ8DF, MJ8F3, MJ9DF, MM8GMF, MM9GF, IAW) for Fiat, Alfa Romeo, Jeep, PSA & Opel · [Web Guide](https://www.davincideluxe.fr/magneti-marelli-tuning-software)
 - **[Continental SIMOS & PCR2.1 (VAG)](https://github.com/DavinciDeluxe/simos-pcr2-1-tuning-software)** — Continental SIMOS 8/10/12/16/18/19 TSI/TFSI & SIMOS PCR2.1 1.6 TDI ECU family across Volkswagen, Audi, Seat, Skoda, Cupra & Porsche · [Web Guide](https://www.davincideluxe.fr/simos-pcr2-1-tuning-software)
 
-## 🚗 Live Passenger Car & Van Coverage (82 Brands · 5,157+ ECUs)
+## 🚗 Live Passenger Car & Van Coverage (82 Brands · 5,159+ ECUs)
 
 | Brand | Supported ECU Variants | Sample ECUs |
 | :--- | :---: | :--- |
@@ -62,14 +62,14 @@
 | **HAVAL** | 1 | ME7 |
 | **HOLDEN** | 2 | DCM3.7, EDC16C39 |
 | **HONDA** | 15 | EDC15, EDC16C1-7, EDC16C31, EDC16C31-C7, EDC16C7, EDC17C01 … |
-| **HYUNDAI** | 52 | CPEGD, CPEGD2.20, CPEGD2.20.1, CPEGD2.20.2, CPEGD2.20.3, CPEGD2.20.4 … |
+| **HYUNDAI** | 53 | CPEGD, CPEGD2.20, CPEGD2.20.1, CPEGD2.20.2, CPEGD2.20.3, CPEGD2.20.4 … |
 | **INFINITI** | 55 | CRD3, DCM3.4, DDCR-DCM1.2, EDC15, EDC15C, EDC15C13 … |
 | **ISUZU** | 8 | EDC15, EDC17C09, EDC17C81, EDC17C83, EDC17CP45-CP49, MSA15 … |
 | **JAC** | 6 | DCM6.2, DCM6.2 AP, DCM6.2A, EDC17C81, MD1CS089, ME7.8 |
 | **JAGUAR** | 38 | DCM3.1, DCM3.4, EDC15, EDC15C4, EDC16CP39, EDC17C08 … |
 | **JEEP** | 76 | 8GMF, 9DF, 9GF, CRD2, CRD2.X, DELCO … |
 | **JMC** | 2 | EDC17C63, MD1CS089 |
-| **KIA** | 48 | CPEGD2.20.1, CPEGD2.20.2, CPEGD2.20.3, CPEGD2.20.4, CPEGD3.20.1, CPGDSH2.2 … |
+| **KIA** | 49 | CPEGD2.20.1, CPEGD2.20.2, CPEGD2.20.3, CPEGD2.20.4, CPEGD3.20.1, CPGDSH2.2 … |
 | **LAMBORGHINI** | 277 | AL1000, AL551, AL552, CAMPI, CRD3, CRD3.X … |
 | **LANCIA** | 74 | 8GMF, 9DF, 9GF, CRD2.X, DELCO, EDC15 … |
 | **LAND ROVER** | 43 | 8HP, DCU-102, DCU106, DDE, DDE4.0, EDC15 … |
