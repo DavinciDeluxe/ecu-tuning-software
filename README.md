@@ -1,6 +1,6 @@
 # ECU Tuning Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
-**Automated ECU & TCU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off), and Stage 1/2 performance software** covering **5,188+ Cars & Vans ECUs (82 brands)**, **452+ Heavy-Duty Truck ECUs**, and **30+ Marine Boat/Outboard/PWC brands**.
+**Automated ECU & TCU remapping, emissions calibration (DPF, EGR, AdBlue/SCR, DTC Off), and Stage 1/2 performance software** covering **5,193+ Cars & Vans ECUs (82 brands)**, **452+ Heavy-Duty Truck ECUs**, and **30+ Marine Boat/Outboard/PWC brands**.
 
 ## 🔧 All 20 Dedicated ECU Family Repositories
 
@@ -25,7 +25,7 @@
 - **[Magneti Marelli (MJD / 8F3 / 9DF / MM)](https://github.com/DavinciDeluxe/magneti-marelli-tuning-software)** — Magneti Marelli diesel & petrol ECU family (MJD6, MJ8DF, MJ8F3, MJ9DF, MM8GMF, MM9GF, IAW) for Fiat, Alfa Romeo, Jeep, PSA & Opel · [Web Guide](https://www.davincideluxe.fr/magneti-marelli-tuning-software)
 - **[Continental SIMOS & PCR2.1 (VAG)](https://github.com/DavinciDeluxe/simos-pcr2-1-tuning-software)** — Continental SIMOS 8/10/12/16/18/19 TSI/TFSI & SIMOS PCR2.1 1.6 TDI ECU family across Volkswagen, Audi, Seat, Skoda, Cupra & Porsche · [Web Guide](https://www.davincideluxe.fr/simos-pcr2-1-tuning-software)
 
-## 🚗 Live Passenger Car & Van Coverage (82 Brands · 5,188+ ECUs)
+## 🚗 Live Passenger Car & Van Coverage (82 Brands · 5,193+ ECUs)
 
 | Brand | Supported ECU Variants | Sample ECUs |
 | :--- | :---: | :--- |
@@ -36,7 +36,7 @@
 | **ASTON MARTIN** | 4 | EEC-V, EEC-VI, MPC555, PCM150 |
 | **AUDI** | 294 | AL1000, AL551, AL552, CRD3, CRD3.X, DCM3.5 … |
 | **BENTLEY** | 282 | AL1000, AL551, AL552, CRD3, CRD3.X, DCM3.5 … |
-| **BMW** | 161 | 6HP, 8HP, 8HP70, BMS, BMS46, BMSK … |
+| **BMW** | 164 | 6HP, 8HP, 8HP70, BMS, BMS46, BMSK … |
 | **BORGWARD** | 1 | MED17.3.8 |
 | **BRILLIANCE** | 1 | ME7.8.8 |
 | **CADILLAC** | 4 | E38, E82, EDC16C39, ME9.6 |
@@ -89,10 +89,10 @@
 | **MINI** | 141 | 8HP, BMS, BMS46, DCM3.7, DDE, DDE3.0 … |
 | **MITSUBISHI** | 23 | DENSO20160, E6T01871, E6T01971, E6T32, E6T348, E6T42 … |
 | **NISSAN** | 73 | CM3230, DCM3.4, DCU17PC42, DDCR-DCM1.2, DENSON, EDC15 … |
-| **OPEL** | 126 | CRDD, D0600, D0700, DCM3, DCM3.7, DCM7.1 … |
+| **OPEL** | 127 | CRDD, D0600, D0700, DCM3, DCM3.7, DCM7.1 … |
 | **PEUGEOT** | 122 | DCM3.4, DCM3.5, DCM3.7, DCM6.2, DCM6.2A, DCM6.2C … |
 | **PORSCHE** | 299 | AL1000, AL551, AL552, CRD3, CRD3.X, DCM3.5 … |
-| **RENAULT** | 81 | DCM3.2, DCM3.4, DCM3.7, DCU17PC42, DDCR_-DCM1.2, EDC15 … |
+| **RENAULT** | 82 | DCM3.2, DCM3.4, DCM3.7, DCU17PC42, DDCR_-DCM1.2, EDC … |
 | **ROEWE** | 1 | MED17.3.8 |
 | **ROVER** | 6 | DDE, EDC15, EDC16CP39, EDC17CP11, EDC17CP42, MED17.5.4 |
 | **SAAB** | 12 | E39, EDC16+ C39, EDC16C9, EDC17C19, EDC17CP21, ME9.6 … |
@@ -105,9 +105,9 @@
 | **SUZUKI** | 32 | 8DS, DCM1.2, DDCR, E6T172, EDC, EDC15 … |
 | **TATA** | 3 | DCM3.2, DCM3.7AP, EDC17C69 |
 | **TOYOTA** | 36 | 76F00XX, D76F019X, D76F019X GEN2, DCM3.5, DCM6.2, DCM7.1 … |
-| **VAUXHALL** | 109 | CRDD, D0600, D0700, DCM3, DCM3.7, DCM7.1 … |
+| **VAUXHALL** | 110 | CRDD, D0600, D0700, DCM3, DCM3.7, DCM7.1 … |
 | **VOLKSWAGEN** | 321 | 0D9300040J, 5WP4, AG6, AL1000, AL450, AL551 … |
-| **VOLVO** | 47 | DENSO VEA, EDC15, EDC15C11-3, EDC15C2, EDC15VM, EDC16C31 … |
+| **VOLVO** | 46 | DENSO VEA, EDC15, EDC15C11-3, EDC15C2, EDC15VM, EDC16C31 … |
 
 
 ---
